@@ -1,0 +1,15 @@
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\CURSOS UDEMY-PLATZI\.NET V7\SistemaInventarioV7\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
