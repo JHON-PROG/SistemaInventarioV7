@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using SistemaInventario.AccesoDatos.Repositorio;
+using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventarioV7.AccesoDatos.Data;
 
 
@@ -15,6 +17,9 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
+
+//todos los servicios deben adicionarse antes del var app
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
